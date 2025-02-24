@@ -15,7 +15,7 @@
     - 라이브러리나 외부에 공개할 API 개발 시 사용.
         
         ex) `func addSubview()`, `removeFromSuperview()`
-        
+
 3. package
     - 정의된 패키지 내 모든 소스파일에서 사용 가능.
     - 패키지 외부 소스 파일에서는 사용 불가.
